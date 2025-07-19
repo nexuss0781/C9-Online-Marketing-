@@ -132,16 +132,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Contact
-
-Your Name - [your_email@example.com](mailto:your_email@example.com)
-Project Link: [https://github.com/your-username/c9-ecommerce](https://github.com/your-username/c9-ecommerce)
-
-
-
-
-
-
 ## 📸 Screenshots
 
 ### Landing Page
