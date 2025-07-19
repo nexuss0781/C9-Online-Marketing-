@@ -5,9 +5,6 @@
 
 # C9 - Modern E-commerce Marketplace
 
-## 🚀 Live Demo
-
-[https://dbaourkv.manus.space](https://dbaourkv.manus.space)
 
 ## ✨ Features
 
