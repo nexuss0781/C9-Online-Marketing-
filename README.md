@@ -93,18 +93,18 @@ Make sure you have Node.js and pnpm installed on your system.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/c9-ecommerce.git
+   git clone https://github.com/nexuss0781/C9-Online-Marketing-.git
    cd c9-ecommerce
    ```
 
 2. **Install dependencies**
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Run the development server**
    ```bash
-   pnpm run dev
+   npm run dev
    ```
    The application will be accessible at `http://localhost:5173` (or another port if 5173 is in use).
 
@@ -113,7 +113,7 @@ Make sure you have Node.js and pnpm installed on your system.
 To create a production-ready build:
 
 ```bash
-pnpm run build
+npm run build
 ```
 
 This will generate a `dist` folder in your project directory, containing the optimized production build.
